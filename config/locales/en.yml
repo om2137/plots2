@@ -917,6 +917,7 @@ en:
     cannot_save_value: "Error: Cannot save value. Try Again"
     value_cannot_be_empty: "Error: value cannot be empty"
     invalid_value: "Error: Invalid value %{type}"
+    question: "Ask a Question of the Public Lab Community"
     admin_user_manage_tags: "Only admin (or) target user can manage tags"
     errors_occured: "%{count} errors occured."
     tag_created: "%{tag_name} tag created successfully"
